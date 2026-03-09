@@ -19,6 +19,9 @@ Este repositório contém os exercícios realizados na prova do Desafio Jitterbi
 
 ## 📂 Estrutura do Projeto
 
+## 📂 Estrutura do Projeto
+
+```
 Jitterbit - Teste
 │
 ├── DividirNumeros.js
@@ -28,6 +31,8 @@ Jitterbit - Teste
 ├── package.json
 ├── package-lock.json
 └── node_modules
+```
+
 
 ---
 
