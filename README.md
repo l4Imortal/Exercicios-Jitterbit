@@ -19,13 +19,15 @@ Este repositório contém os exercícios realizados na prova do Desafio Jitterbi
 
 ## 📂 Estrutura do Projeto
 
-Prova Jitterbit
+Jitterbit - Teste
 │
-├── exercicio1.js
-├── exercicio2.js
-├── exercicio3.js
-├── README.md
-└── assets
+├── DividirNumeros.js
+├── ex7.js
+├── inverterPalavra.js
+├── soma.js
+├── package.json
+├── package-lock.json
+└── node_modules
 
 ---
 
